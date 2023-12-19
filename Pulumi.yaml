@@ -1,6 +1,4 @@
 name: big3_infra
 runtime:
   name: python
-  options:
-    virtualenv: venv
 description: Big3 infra
